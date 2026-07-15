@@ -1,8 +1,8 @@
 <div align="center">
 <img src=".assets/banner-test.png" width="100%" height="100%" alt="Readme Banner">
 
-# AI Resume Builder
-
+# ResumIt
+<!-- Fix the BERT model.. ain't working as intended -->
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Internship](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
